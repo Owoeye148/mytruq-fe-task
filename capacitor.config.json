@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "upcoming-event-app",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
