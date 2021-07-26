@@ -38,7 +38,7 @@ export default defineComponent({
         display: flex;
         align-items: center;
         justify-content: center;
-        gap: 15%;
+        gap: 20%;
         background: rgba(0, 0, 0, 0.95);
     }
 
